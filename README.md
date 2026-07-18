@@ -79,13 +79,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn
 jupyter notebook Telco_Customer_Churn.ipynb
 ```
 
-## 🔜 Next Steps
 
-- Fix the SMOTE leakage by resampling only the training split
-- Add cross-validation for more robust model comparison
-- Tune hyperparameters (GridSearchCV / RandomizedSearchCV) for Random Forest and Gradient Boosting
-- Add SHAP values for model explainability and feature importance visualization
-- Package the best model behind a simple prediction script or API
 
 ## 👤 Author
 
